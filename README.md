@@ -1,0 +1,1 @@
+Projeto web simples exibe três jogos com opções de aluguel. Os usuários interagem com a interface para alugar ou devolver jogos individualmente. Utiliza HTML, CSS e JavaScript para criar uma experiência interativa, demonstrando a manipulação dinâmica do DOM em resposta às ações do usuário.
